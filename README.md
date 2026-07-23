@@ -1,2 +1,2 @@
-# assignment-tracker
-A Java console application that helps students organize assignments by course, due date, priority, and completion status.
+# Study Flow
+A Java console application that helps students organize assignments by course, due date, priority, and completion status, while calculating the grade for the entire course. This is beneficial for students who work while enrolled in college, student are able to successfully keep track of all assignments big or small. They will be able to take control of wvery class and make sure they get the best grade possible. This can be used for students who do not work while is school and who just want better organization overall. 
